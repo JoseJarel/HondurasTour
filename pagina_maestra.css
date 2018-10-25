@@ -1,0 +1,151 @@
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/fondo-01.jpg);
+   background-position: left top;
+   background-repeat: repeat;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#PageHeader1
+{
+   background-color: #1E90FF;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#NavigationBar1 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#NavigationBar1 ul.navbar li
+{
+   height: 22px;
+   width: 134px;
+   float: left;
+   margin: 0 4px 0 0;
+}
+#NavigationBar1 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+#NavigationBar1 ul.navbar li a img
+{
+   position: absolute;
+   left: 0;
+   z-index: 1;
+   border-width: 0;
+}
+#NavigationBar1 ul.navbar li span
+{
+   display: block;
+   height: 22px;
+   width: 134px;
+   position: absolute;
+   z-index: 2;
+}
+#NavigationBar1 a .hover
+{
+   visibility: hidden;
+}
+#NavigationBar1 a:hover .hover
+{
+   visibility: visible;
+}
+#NavigationBar1 a:hover span
+{
+   visibility: hidden;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#PageFooter1
+{
+   background-color: #00BFFF;
+   background-image: none;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
